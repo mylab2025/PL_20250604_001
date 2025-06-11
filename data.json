@@ -6,7 +6,8 @@
     "Status": "Dropped",
     "PlannedDate": "2025-06-09T00:00:00",
     "Remarks": "Dont Need to purchase by this weekend.",
-    "Deducted": true
+    "Deducted": false,
+    "Approval": "Rejected"
   },
   "materials": [
     {
